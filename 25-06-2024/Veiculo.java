@@ -65,7 +65,7 @@ void imprimirFicha() {
 	System.out.println("Modelo: " + this.modelo);
 	System.out.println("Valor Tabela: " + this.valorTabela);
 	System.out.println("Cor: " + this.Cor);
-	System.out.println("Tipo do seu Combustível: " + this.Combustivel);
+	System.out.println("Combustível: " + this.Combustivel);
 	System.out.println("Seu IPVA é: " + this.Ipva);
 }
 
